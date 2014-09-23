@@ -1,0 +1,17 @@
+[
+{
+    "modid": "LetsModRetry",
+    "name": "Lets Mod Retry!",
+    "description": "lets mod retry description!",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "http://www.wedonothaveawebsiteyet.com",
+    "updateUrl": "",
+    "authorList": [ "niall", "allister" ],
+    "credits": "working together!",
+    "logoFile": "/256.jpg",
+    "screenshots": [  ],
+    "parent": "",
+    "dependencies": [  ]
+}
+]
